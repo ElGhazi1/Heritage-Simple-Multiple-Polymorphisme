@@ -1,1 +1,0 @@
-# Heritage-Simple-Multiple-Polymorphisme
